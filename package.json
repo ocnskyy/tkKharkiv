@@ -1,0 +1,25 @@
+{
+  "name": "tk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "font-awesome": "^4.5.0",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocnskyy/tkKharkiv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocnskyy/tkKharkiv/issues"
+  },
+  "homepage": "https://github.com/ocnskyy/tkKharkiv#readme"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "tk",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "serhii <ocnskyy@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ocnskyy/tkKharkiv",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.countdown": "^2.1.0"
+  }
+}
