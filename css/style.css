@@ -1,0 +1,73 @@
+@font-face {
+    font-family: scriptorama;
+    src: url(../font/scriptorama.ttf);
+}
+
+.header h1 {
+   font-family: scriptorama;
+   font-size: 90px;
+}
+
+.navbar {
+   margin-top: 30px;
+   background-color: #FF9000;
+}
+
+.navbar-nav {
+   width: 100%;
+   text-align: center;
+}
+
+.navbar .nav > li > a {
+   background-color: #FF9000 !important;
+}
+
+.navbar-nav > li {
+   float: none;
+   display: inline-block;
+   color: #000;
+   margin: 0 10px 0 10px;
+}
+
+.navbar-nav > li > a {
+   color: #000 !important;
+}
+
+.navbar-nav > li > a > i {
+   font-size: 3em;
+}
+
+.dropdown-menu, .dropdown-menu a {
+   background-color: #FF9000 !important;
+   border: none;
+   font-size: 1.2em;
+   color: #000;
+   /*font-family: "Comic Sans MS", bold, sans-serif !important;*/
+   /*font-family: "Arial Black", Gadget, sans-serif !important;*/
+}
+
+.dropdown:hover .dropdown-menu {
+   display: block;
+}
+
+/*VIDEO*/
+/*.jumbotron-video {
+      border-radius: 6px;
+}*/
+
+.day {
+   margin: 0 auto;
+}
+
+.people {
+  overflow: hidden;
+}
+
+#people .thumbnail {
+   border: none !important;
+}
+
+.people div{
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+}
